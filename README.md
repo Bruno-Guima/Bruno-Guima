@@ -29,4 +29,4 @@ Apaixonado por tecnologia, minha maior satisfação e ver as pessoas e empresas 
 - [Interface Gráfica em Python - Fundação Bradesco]()<br/>
 - [Criação de Site com HTML, CSS e Javascript - Fundação Bradesco]()<br/>
 
-![snake gif](https://github.com/BGS37/BGS37/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Bruno-Guima/Bruno-Guima/blob/output/github-contribution-grid-snake.svg)
