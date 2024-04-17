@@ -29,5 +29,6 @@ Apaixonado por tecnologia, minha maior satisfação e ver as pessoas e empresas 
 - [HTML e CSS na Prática - Fundação Bradesco]()<br/>
 - [Interface Gráfica em Python - Fundação Bradesco]()<br/>
 - [Criação de Site com HTML, CSS e Javascript - Fundação Bradesco]()<br/>
+- [Certificado API Rest ADA.Tech]()<br/>
 
 ![snake animation](https://github.com/Bruno-Guima/Bruno-Guima/blob/output/github-contribution-grid-snake.svg)
